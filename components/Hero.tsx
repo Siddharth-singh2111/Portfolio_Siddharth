@@ -48,8 +48,8 @@ const Hero = () => {
             <Button
               title="Show my work"
               icon={<FaLocationArrow />}
-              position='right'
-              className="transition-transform duration-300 hover:scale-105 hover:bg-gradient-to-r hover:from-purple-500 hover:to-indigo-500"
+              position="right"
+              otherclasses="transition-transform duration-300 hover:scale-105 hover:bg-gradient-to-r hover:from-purple-500 hover:to-indigo-500"
             />
           </a>
 
@@ -62,8 +62,8 @@ const Hero = () => {
             <Button
               title="Resume"
               icon={<FaFileDownload />}
-              position='right'
-              className="transition-transform duration-300 hover:scale-105 hover:bg-gradient-to-r hover:from-purple-500 hover:to-indigo-500"
+              position="right"
+              otherclasses="transition-transform duration-300 hover:scale-105 hover:bg-gradient-to-r hover:from-purple-500 hover:to-indigo-500"
             />
           </a>
 
