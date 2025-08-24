@@ -40,11 +40,11 @@ export const BentoGridItem = ({
   className?: string;
   title?: string | React.ReactNode;
   description?: string | React.ReactNode;
-  id: Number;
+  id: number;
   img?: string;
-  imgClassName?: String;
-  titleClassName?: String;
-  spareImg?: String;
+  imgClassName?: string;
+  titleClassName?: string;
+  spareImg?: string;
 }) => {
   const [copied, setCopied] = useState(false);
   const defaultOptions = {
@@ -84,9 +84,8 @@ export const BentoGridItem = ({
         <div className={`absolute right-0 -bottom-5 ${id === 5 && 'w-full opacity-80'}`}>
           {spareImg && (
             <img
-              src={spareImg}
-              alt={spareImg}
-              //   width={220}
+              src={spareImg?.toString()}
+              alt={spareImg?.toString()}
               className="object-cover object-center w-full h-full"
             />
           )}
