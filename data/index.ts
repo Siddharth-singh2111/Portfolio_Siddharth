@@ -113,19 +113,19 @@ export const testimonials = [
   },
   {
     quote:
-      "Collaborating with Siddharth was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Siddharth's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Siddharth is the ideal partner.",
+      "Working with Siddharth was a game-changer. His ability to understand our vision and translate it into a seamless user experience was remarkable. He doesn’t just build websites—he crafts digital experiences that resonate with users. A true asset to any team",
     name: "Keshav Sachdeva",
     title: "Student @IIITS",
   },
   {
     quote:
-      "Collaborating with Siddharth was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Siddharth's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Siddharth is the ideal partner.",
+      "From concept to deployment, Siddharth handled everything with finesse. What impressed me most was his problem-solving mindset—no challenge was too big, and he always came through with thoughtful, elegant solutions.",
     name: "Ashutosh Sinha",
     title: "Student @IIITS",
   },
   {
     quote:
-      "Collaborating with Siddharth was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Siddharth's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Siddharth is the ideal partner.",
+      "One of the most dependable developers I’ve worked with. Siddharth respects timelines, welcomes feedback, and consistently exceeds expectations. His calm demeanor and collaborative approach made the journey both productive and pleasant",
     name: "Aayush Soni",
     title: "Student @IIITS",
   },
