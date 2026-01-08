@@ -107,31 +107,31 @@ export const projects = [
 export const testimonials = [
   {
     quote:
-      "Collaborating with Siddharth was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Siddharth's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Siddharth is the ideal partner.",
+      "I've worked with Siddharth on a couple of semester projects, and his ability to handle complex backend logic is seriously impressive. He’s the kind of teammate who doesn't just write code but actually thinks about the architecture. A super reliable guy to have in your corner during crunch time.",
     name: "Shreyaan Loke",
     title: "Student @IIITS",
   },
   {
     quote:
-      "Collaborating with Siddharth was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Siddharth's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Siddharth is the ideal partner.",
+      "Siddharth has a crazy eye for detail when it comes to UI/UX. He transformed our rough hackathon prototype into a smooth, responsive application in record time. If you want someone who cares about the 'feel' of a product as much as the function, he's your guy.",
     name: "Keshav Sachdeva",
     title: "Student @IIITS",
   },
   {
     quote:
-      "Collaborating with Siddharth was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Siddharth's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Siddharth is the ideal partner.",
+      "The best thing about collaborating with Siddharth is his debugging skills. When the rest of us were stuck on a critical error hours before the deadline, he stayed cool and figured it out. He brings a level of calmness and clarity that every dev team needs.",
     name: "Ashutosh Sinha",
     title: "Student @IIITS",
   },
   {
     quote:
-      "Collaborating with Siddharth was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Siddharth's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Siddharth is the ideal partner.",
+      "I've seen Siddharth pick up new tech stacks on the fly faster than anyone else in our batch. Whether it's a new JS framework or cloud integration, he’s always ahead of the curve. He pushes the whole team to write cleaner, more efficient code.",
     name: "Aayush Soni",
     title: "Student @IIITS",
   },
   {
     quote:
-      "Collaborating with Siddharth was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Siddharth's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Siddharth is the ideal partner.",
+      "Beyond just being a solid developer, Siddharth is genuinely fun to work with. No ego, always open to feedback, and constantly looking for ways to optimize our workflow. Definitely one of the sharpest minds I've met at IIITS.",
     name: "Ansh Mishra",
     title: "Student @IIITS",
   },
