@@ -55,7 +55,7 @@ const Hero = () => {
 
           {/* Resume Button */}
           <a
-            href="https://drive.google.com/file/d/1oGOd9S3nVuo_ctLPQP0WTJ5JbfRn3Kb7/preview"
+            href="https://drive.google.com/file/d/1LitAdcbEN9fXcByF5Q7LsE8NGkwLWNqc/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
           >

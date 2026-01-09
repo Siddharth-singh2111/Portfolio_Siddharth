@@ -38,7 +38,7 @@ export const gridItems = [
   },
   {
     id: 4,
-    title: "Tech enthusiast with a passion for development.",
+    title: "Software developer dedicated to crafting user-centric applications from concept to deployment.",
     description: "",
     className: "lg:col-span-2 md:col-span-3 md:row-span-1",
     imgClassName: "",
@@ -49,12 +49,12 @@ export const gridItems = [
 
   {
     id: 5,
-    title: "Currently building a Realtime Splitwise Application",
+    title: "Currently exploring GenAI and its applications.",
     description: "The Inside Scoop",
     className: "md:col-span-3 md:row-span-2",
     imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
     titleClassName: "justify-center md:justify-start lg:justify-center",
-    img: "/b5.svg",
+    img: "/genai.png",
     spareImg: "/grid.svg",
   },
   {
@@ -76,7 +76,7 @@ export const projects = [
     des: "SplitEase is a smart expense-splitting and group finance management application that makes it easy to split bills, track expenses, and settle debts among friends, roommates, or colleagues.",
     img: "/SplitEase.png",
     iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/fir.png"],
-    link: "https://split-ease-nine.vercel.app/",
+    link: "https://split-ease-nine.vercel.app",
   },
   {
     id: 2,
@@ -102,6 +102,31 @@ export const projects = [
     iconLists: ["/Node.png", "/tail.svg", "/FastApi.png", "/Python.png", "/re.svg"],
     link: "https://github.com/Siddharth-singh2111/Vector-Shift-project",
   },
+  {
+    id: 5,
+    title: "ResumeBuilder AI",
+    des: "An AI-powered resume builder that generates tailored resumes based on user input, utilizing modern web technologies for a seamless experience." ,
+    img: "/ResumeBuilder.png",
+    iconLists: ["/Node.png", "/tail.svg", "/express.png",  "/re.svg"],
+    link: "https://resume-builder-three-omega.vercel.app/",
+  },
+  {
+    id: 6,
+    title: "CivicSimplifier AI",
+    des: "A Full-Stack RAG application that simplifies tenancy laws using React, FastAPI, and LangChain" ,
+    img: "/CivicSimplifier.png",
+    iconLists: ["/Node.png", "/tail.svg","/express.png",   "/re.svg"],
+    link: "https://civic-simplifier.vercel.app/",
+  },
+  {
+    id: 7,
+    title: "Dead Mans Switch ",
+    des: "Dead Man's Switch is a secure, automated fail-safe system designed to handle digital assets or sensitive information in the event of the owner's unavailability." ,
+    img: "/DEADmans.png",
+    iconLists: ["/Node.png", "/tail.svg","/express.png",   "/re.svg"],
+    link: "https://dead-mans-switch-eight.vercel.app",
+  },
+
 ];
 
 export const testimonials = [
@@ -137,38 +162,7 @@ export const testimonials = [
   },
 ];
 
-export const companies = [
-  {
-    id: 1,
-    name: "cloudinary",
-    img: "/cloud.svg",
-    nameImg: "/cloudName.svg",
-  },
-  {
-    id: 2,
-    name: "appwrite",
-    img: "/app.svg",
-    nameImg: "/appName.svg",
-  },
-  {
-    id: 3,
-    name: "HOSTINGER",
-    img: "/host.svg",
-    nameImg: "/hostName.svg",
-  },
-  {
-    id: 4,
-    name: "stream",
-    img: "/s.svg",
-    nameImg: "/streamName.svg",
-  },
-  {
-    id: 5,
-    name: "docker.",
-    img: "/dock.svg",
-    nameImg: "/dockerName.svg",
-  },
-];
+
 
 export const workExperience = [
   {
@@ -184,6 +178,20 @@ export const workExperience = [
     desc: "Led a 40 member team for a 1 week web3 bootcamp and 2 day hackathon with over 100+ participants.",
     className: "md:col-span-2", // change to md:col-span-2
     thumbnail: "/web3ssh.png",
+  },
+  {
+    id: 3,
+    title: "Sponsorship Team Lead",
+    desc: "Leading a team of 13 members to secure sponsorships and partnerships for our annual tech fest, ensuring successful collaborations with industry leaders.",
+    className: "md:col-span-2", // change to md:col-span-2
+    thumbnail: "/iiits.png",
+  },
+  {
+    id: 4,
+    title: "Android Dev Team Lead @IOTA",
+    desc: "Working as the Android Development Team Lead for IOTA, guiding a team to build innovative mobile solutions that integrate with the IOTA ecosystem.",
+    className: "md:col-span-2", // change to md:col-span-2
+    thumbnail: "/iota.png",
   },
   
 ];

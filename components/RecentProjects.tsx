@@ -8,7 +8,7 @@ import { PinContainer } from "./ui/PinContainer";
 const RecentProjects = () => {
   return (
     <div  id="projects"className="py-20">
-      <h1 className="heading">
+      <h1  className="heading text-center font-serif  text-3xl">
         A small selection of{" "}
         <span className="text-purple">recent projects</span>
       </h1>
@@ -65,12 +65,17 @@ const RecentProjects = () => {
                   ))}
                 </div>
 
-                <div className="flex justify-center items-center">
-                  <p className="flex lg:text-xl md:text-xs text-sm text-purple">
-                    Check Live Site
-                  </p>
-                  <FaLocationArrow className="ms-3" color="#CBACF9" />
-                </div>
+                <a 
+  href={item.link} 
+  target="_blank" 
+  rel="noreferrer"
+  className="flex justify-center items-center cursor-pointer"
+>
+    <p className="flex lg:text-xl md:text-xs text-sm text-purple">
+        Check Live Site
+    </p>
+    <FaLocationArrow className="ms-3" color="#CBACF9" />
+</a>
               </div>
             </PinContainer>
           </div>

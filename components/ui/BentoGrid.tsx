@@ -119,7 +119,17 @@ export const BentoGridItem = ({
                 'JavaScript',
                 'TypeScript',
                 'Python',
-                'Framer Motion'
+                'Docker',
+                'CI/CD',
+                'LangChain',
+                'OpenAI API',
+                'Vercel',
+                'AWS',
+                'SQL',
+                'NoSQL',
+                'RESTful APIs',
+                
+
               ].map((item, i) => (
                 <span
                   key={i}
